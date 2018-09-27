@@ -1,0 +1,4 @@
+<view class='container'>
+  <text class='usermotto' bindtap='clickMe'>我在这里</text>
+  <view class='usermotto'>{{msg}}</view>
+</view>
